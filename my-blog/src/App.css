@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.home-banner {
+  height: 250px;
+  background-image: url('./assets/img/wallpaper-home.jpg');
+}
+
+.home {
+  height: 1000px;
+}
