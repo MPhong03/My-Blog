@@ -19,7 +19,7 @@ function CustomFooter() {
                 <section className="mb-4">
                     <a
                         className="btn btn-link btn-floating btn-lg text-dark m-1"
-                        href="#!"
+                        href="https://www.facebook.com/m.phong.912/"
                         role="button"
                         data-mdb-ripple-color="dark"
                     >
@@ -64,7 +64,7 @@ function CustomFooter() {
 
                     <a
                         className="btn btn-link btn-floating btn-lg text-dark m-1"
-                        href="#!"
+                        href="https://github.com/MPhong03"
                         role="button"
                         data-mdb-ripple-color="dark"
                     >

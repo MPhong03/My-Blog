@@ -10,8 +10,9 @@ function CustomNavbar() {
             <Container>
                 <Navbar.Brand href="#">{brand}</Navbar.Brand>
                 <Nav className="ms-auto">
-                    <Nav.Link href="#">Home</Nav.Link>
+                    <Nav.Link href="/">Home</Nav.Link>
                     <Nav.Link href="#">Blog</Nav.Link>
+                    <Nav.Link href="/bio">Bio</Nav.Link>
                     <Nav.Link href="#">Contacts</Nav.Link>
                 </Nav>
             </Container>
