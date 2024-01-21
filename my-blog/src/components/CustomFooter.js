@@ -14,7 +14,7 @@ function CustomFooter() {
     };
 
     return (
-        <footer style={footerStyle}>
+        <footer style={footerStyle} className='bg-light'>
             <div className="container pt-4">
                 <section className="mb-4">
                     <a
